@@ -1,1 +1,1 @@
-# lr-api-deploy.
+# linearegression-api-deploy.
